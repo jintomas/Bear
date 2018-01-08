@@ -1,3 +1,8 @@
+Looking for maintainer to this project
+======================================
+
+If you are intereseted, please open an issue to discuss the details.
+
 Build EAR
 =========
 
